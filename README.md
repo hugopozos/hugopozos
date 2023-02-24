@@ -1,8 +1,7 @@
-<h3 align="center">My name is Hugo, I'm from Mexico and i'm Software Developer.</h3>
+<h1 align="center">Hello 👋 My name is Hugo</h1>
+<h3 align="center">I'm from Mexico and i'm Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugopozos&label=Profile%20views&color=0e75b6&style=flat" alt="hugopozos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugopozos" alt="hugopozos" /></a> </p>
 
 - 🔭 I’m currently studying on [Instituto Tecnológico de Veracruz](https://www.veracruz.tecnm.mx)
 
