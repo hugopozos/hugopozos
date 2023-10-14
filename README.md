@@ -1,5 +1,5 @@
 # Hello there! 
-🍂 I'm Software Developer with a passion for personal growth and new technologies.<br><br>💻 I'm currently learning full stack web development.
+🍂 I'm Web Developer with a passion for personal growth and new technologies.<br><br>💻 I'm currently learning full stack web development.
 
 
 ## 🌐 Socials
