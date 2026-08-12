@@ -5,7 +5,7 @@
 ## Hey! 👋
 
 Thanks for visiting my Github profile
-My name is Hugo Pozos, I'm Mexican and living in Mexico at the moment.
+My name is Hugo Pozos
 
 - :man_technologist: I'm a software engineer working most of the time with React and TypeScript.
 - 💼 React Enthusiast: I specialize in building modern frontend applications.
